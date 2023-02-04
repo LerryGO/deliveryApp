@@ -15,6 +15,7 @@ class SplashPage extends StatelessWidget {
             Align(
               alignment: Alignment.bottomCenter,
               child: SizedBox(
+                
                 width: context.screenWidth,
                 child: Image.asset(
                   'assets/images/lanche.png',
